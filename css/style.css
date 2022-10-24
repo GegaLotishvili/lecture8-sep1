@@ -3,6 +3,18 @@
 	margin: 0 auto;
 }
 
+.icons {
+	margin-bottom: 100px;
+}
+
+.fa-twitter {
+	font-size: 52px;
+}
+
+.fa-twitter:hover {
+	color: blue;
+}
+
 .mshobeli {
 	margin-top: 20px;
 	width: 100%;
